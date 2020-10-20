@@ -1,0 +1,40 @@
+
+.leftBar {
+    padding: 10px;
+    border-right: solid black 1px;
+    width: 250px;
+    height: auto;
+}
+@media only screen and (max-width: 2000px) {
+    .leftBar {
+        display: none;
+    }
+}
+
+.title {
+    font-size: 18px;
+}
+
+.divider {
+    border-top: solid black 1px;
+}
+
+.productList {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+
+    .productItem {
+        text-decoration: underline;
+        font-size: 16px;
+        margin-top: 3px;
+        padding: 2px 5px;
+
+        &:hover {
+            background-color: lightgray;
+            color: darkblue;
+            cursor: pointer;
+        }
+    }
+}

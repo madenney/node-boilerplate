@@ -1,0 +1,33 @@
+
+
+.navbar {
+    //border-bottom: solid 1px black;
+
+    .title {
+        color: red
+    }
+
+}
+
+.logo {
+    width: 200px;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.nav {
+    position: absolute;
+    bottom: 0px;
+}
+
+.navItem {
+    margin-left: 20px;
+}
+
+.login {
+    bottom: 0px;
+    position: absolute;
+    right: 0px;
+    margin-right: 10px;
+}

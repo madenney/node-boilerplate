@@ -1,0 +1,25 @@
+[{
+    "name": "Regular Wood",
+    "id": "wood",
+    "cost_sqft": "5"
+},{
+    "name": "Expensive Wood",
+    "id": "wood_expensive",
+    "cost_sqft": "10"
+},{
+    "name": "Clear Acrylic",
+    "id": "acrylic_clear",
+    "cost_sqft": "0.50"
+},{
+    "name": "White Acrylic",
+    "id": "acrylic_white",
+    "cost_sqft": "0.50"
+},{
+    "name": "Red Acrylic",
+    "id": "acrylic_red",
+    "cost_sqft": "0.50"
+},{
+    "name": "Adamantium",
+    "id": "adamantium",
+    "cost_sqft": "100.00"
+}]

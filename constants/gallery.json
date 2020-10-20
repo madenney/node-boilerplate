@@ -1,0 +1,94 @@
+[{
+    "id": "accessoryHolder",
+    "name": "Accessory Holder",
+    "carousel": true,
+    "img": [
+        "/gallery/accessory_holder/1.jpg",
+        "/gallery/accessory_holder/2.jpg",
+        "/gallery/accessory_holder/3.jpg",
+        "/gallery/accessory_holder/4.jpg"
+    ],
+    "product": "woodenKeepsakeBox"
+},{
+    "id": "customCase",
+    "name": "Magnetic Case",
+    "carousel": true,
+    "img": [
+        "/gallery/dnd_holder/1.jpg",
+        "/gallery/dnd_holder/2.jpg",
+        "/gallery/dnd_holder/3.jpg",
+        "/gallery/dnd_holder/4.jpg"
+    ],
+    "product": "woodenKeepsakeBox"
+},{
+    "id": "acrylicDisplay",
+    "name": "Acrlyic Display",
+    "carousel": true,
+    "img": [
+        "/gallery/acrylic_display/1.jpg",
+        "/gallery/acrylic_display/2.jpg",
+        "/gallery/acrylic_display/3.jpg"
+    ],
+    "product": "acrylicWithBase"
+},{
+    "id": "vapeHolder",
+    "name": "Vape Case",
+    "carousel": true,
+    "img": [
+        "/gallery/vape_holder/1.jpg",
+        "/gallery/vape_holder/2.jpg",
+        "/gallery/vape_holder/3.jpeg"
+    ],
+    "product": "woodenKeepsakeBox"
+},{
+    "id": "penHolder",
+    "name": "Pen Stand",
+    "carousel": true,
+    "img": [
+        "/gallery/pen_holder/1.jpg",
+        "/gallery/pen_holder/2.jpg"
+    ],
+    "product": "woodenKeepsakeBox"
+},{
+    "id": "hingedBox",
+    "name": "Hinged Case",
+    "carousel": true,
+    "img": [
+        "/gallery/hinged_box/1.jpg",
+        "/gallery/hinged_box/2.jpg",
+        "/gallery/hinged_box/3.jpg"
+    ],
+    "product": "woodenBoxHinged"
+},{
+    "id": "bigD",
+    "name": "Custom Shelves",
+    "img": "/gallery/big_d.jpg",
+    "product": "shelves"
+},{
+    "id": "cornerShelves",
+    "name": "Corner Shelves",
+    "img": "/gallery/corner_shelves.jpg",
+    "product": "shelves"
+},{
+    "id": "customShelf",
+    "name": "Curtain Rod Shelf",
+    "img": "/gallery/curtain_rod_shelf.jpg",
+    "product": "shelves"
+},{
+    "id": "bench",
+    "name": "Weird Bench",
+    "img": "/gallery/bench.jpg",
+    "product": "comingSoon"
+},{
+    "id": "engravings",
+    "name": "Engravings",
+    "carousel": true,
+    "img": [
+        "/gallery/engravings/bull_bear.jpg",
+        "/gallery/engravings/eagle.jpg",
+        "/gallery/engravings/eagle2.jpg",
+        "/gallery/engravings/wolf.jpg",
+        "/gallery/engravings/lotr_sign.jpg"
+    ],
+    "product": "engraving"
+}]

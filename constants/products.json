@@ -1,0 +1,529 @@
+[{
+   "id": "rectangularPanel",
+   "name": "Rectangular Panel",
+   "img": "/catalog/acrylic_panel.jpeg",
+   "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+   },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+   },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+    },{
+       "name": "Material",
+       "id": "material",
+       "tag": "M"
+   }],
+   "cost": "LxWxMC+PxTxIPM",
+   "defaultMaterial": "acrylic_clear"
+},
+{
+   "id": "circularPanel",
+   "name": "Circular Panel",
+   "img": "/catalog/acrylic_circular.jpg",
+   "options": [{
+        "name": "Diameter",
+        "id": "diameter",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+    },{
+       "name": "Material",
+       "id": "material",
+       "tag": "M"
+   }],
+   "cost": "PixDxMC+PxIPM",
+   "defaultMaterial": "acrylic_clear"
+},
+{
+    "id": "rectangularBox",
+    "name": "Rectangular Box",
+    "img": "/catalog/acrylic_rectangular_box.jpeg",
+    "options": [{
+         "name": "Length",
+         "id": "length",
+         "tag": "L",
+         "max": 10,
+         "min": 1
+    },{
+         "name": "Width",
+         "id": "width",
+         "tag": "W",
+         "max": 10,
+         "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+         "name": "Thickness",
+         "id": "thickness",
+         "tag": "T",
+         "max": 1,
+         "min": 0.25,
+         "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "tStand",
+    "name": "T Stand",
+    "img": "/catalog/acrylic_t.jpeg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "tray",
+    "name": "Acrylic Tray",
+    "img": "/catalog/acrylic_tray.jpeg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "fiveSidebox",
+    "name": "Acrylic 5 Sided Box",
+    "img": "/catalog/acrylic_5_side_box.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "compartmentBox",
+    "name": "Acrylic Box with Compartments",
+    "img": "/catalog/4_compartment_acrylic_box.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "# Compartments",
+        "id": "compartments",
+        "tag": "C",
+        "max": 16,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxCxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "acrylicWithBase",
+    "name": "Acrylic Display Case",
+    "img": "/catalog/acrylic_with_base.jpeg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Base Material",
+        "id": "baseMaterial",
+        "tag": "BM"
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "woodenStand",
+    "name": "Wooden Stand",
+    "img": "/catalog/wooden_stand.jpeg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxMC+PxTxIPM",
+    "defaultMaterial": "wood_expensive"
+},{
+    "id": "sneezeGuard",
+    "name": "Sneeze Guard (New)",
+    "img": "/catalog/sneezeguard.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxMC+PxTxIPM",
+    "defaultMaterial": "acrylic_clear"
+},{
+    "id": "woodenTray",
+    "name": "Wooden Tray",
+    "img": "/catalog/wooden_tray.jpeg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "wood"
+},{
+    "id": "woodenKeepsakeBox",
+    "name": "Wooden Keepsake Box",
+    "img": "/catalog/wooden_keepsake_box.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "wood"
+},{
+    "id": "woodenBoxHinged",
+    "name": "Wooden Box - Hinged",
+    "img": "/catalog/wooden_box_hinged.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "# Compartments",
+        "id": "compartments",
+        "tag": "C",
+        "max": 16,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxCxMC+PxTxIPM",
+    "defaultMaterial": "wood"
+},{
+    "id": "shelves",
+    "name": "Shelves",
+    "img": "/catalog/wooden_shelves.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Height",
+        "id": "height",
+        "tag": "H",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "wood"
+},{
+    "id": "engraving",
+    "name": "Engraving",
+    "img": "/catalog/engraving.jpg",
+    "options": [{
+        "name": "Length",
+        "id": "length",
+        "tag": "L",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Width",
+        "id": "width",
+        "tag": "W",
+        "max": 10,
+        "min": 1
+    },{
+        "name": "Engraving",
+        "id": "engraving",
+        "tag": "E",
+        "file": "file"
+    },{
+        "name": "Thickness",
+        "id": "thickness",
+        "tag": "T",
+        "max": 1,
+        "min": 0.25,
+        "interval": 0.25
+     },{
+        "name": "Material",
+        "id": "material",
+        "tag": "M"
+    }],
+    "cost": "LxWxHxMC+PxTxIPM",
+    "defaultMaterial": "wood"
+}
+]

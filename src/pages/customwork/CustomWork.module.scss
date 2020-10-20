@@ -1,0 +1,32 @@
+
+.container {
+    padding: 10px;
+    text-align: center;
+
+    .title {
+        font-size: 30px;
+    }
+
+    .inputRow {
+        margin: auto;
+        width: 500px;
+
+        .emailInput {
+            width: 300px;
+        }
+
+        .infoInput {
+            width: 400px;
+        }
+    }
+
+    .submitButton {
+        margin: 20px 20px 100px;
+        width: 100px;
+        height: 50;
+        font-size: 20px;
+        background-color: lightblue;
+        text-align: center;
+        padding: 5px;
+    }
+}
